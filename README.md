@@ -39,6 +39,31 @@ var simulation = d3_force.forceSimulation(nodes);
 
 [Try d3-force-3d in your browser.](https://tonicdev.com/npm/d3-force-3d)
 
+### Run locally
+
+- Npm: `$ npm install`
+- Yarn: `$ yarn install`
+
+## Web examples
+
+You can use [serve](https://www.npmjs.com/package/serve) to run a simple static file server for the examples included.
+
+Run `serve` via [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) that comes bundles with npm.
+
+### Simple
+
+`$ npx serve web/simple`
+
+### Miserables data
+
+Example as seen [here](https://bl.ocks.org/vasturiano/f59675656258d3f490e9faa40828c0e7)
+
+`$ npx serve web/miserables`
+
+### Custom examples
+
+Please add your own examples/configuration in similar fashion :)
+
 ## API Reference
 
 ### Simulation
