@@ -26,16 +26,15 @@ To use this module, create a [simulation](#simulation) for an array of [nodes](#
 
 ## Web Examples
 
-Contains a small static web server example demonstrating visualization of *Les Miserables* character connections.
-
-See [Examples.md]() document for run instructions.
+This fork contains a small static web server example, demonstrating visualization of a few different data sets. See [Examples.md]() document for run instructions.
 
 ### Example code
 
-The miserables example demonstrates how you can write a simple web app that leverages this library.
+The example demonstrates how you can write a simple web app that leverages this library.
 
-- `/web/miserables` the web app
-- `/web/data` the data visualized
-- `/web/lib` the d3-force-3d lib used
+- `/web/3d` 3D examples
+- `/web/vr` VR examples
+- `/web/data` the datasets used for visualizations
+- `/web/lib` the `d3-force-3d` lib to be used
 
 Enjoy :)

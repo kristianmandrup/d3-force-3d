@@ -8,17 +8,19 @@ Run `serve` via [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-packa
 
 ## Examples
 
-### Miserables
+Examples as seen [here](https://bl.ocks.org/vasturiano/f59675656258d3f490e9faa40828c0e7)
 
-*Les Miserables* (Theatrical play) character connections example as seen [here](https://bl.ocks.org/vasturiano/f59675656258d3f490e9faa40828c0e7)
+- Les Miserables character connections (Book/Play)
+- Blocks
+- D3 dependencies
 
 #### 3D example
 
-Go to [http://localhost:5000/miserables/3d](http://localhost:5000/miserables/3d) in your browser
+Go to [http://localhost:5000/3d](http://localhost:5000/3d) in your browser
 
 #### 3D VR example
 
-Go to [http://localhost:5000/miserables/vr](http://localhost:5000/miserables/vr) in your browser
+Go to [http://localhost:5000/vr](http://localhost:5000/vr) in your browser
 
 ### Custom examples
 
